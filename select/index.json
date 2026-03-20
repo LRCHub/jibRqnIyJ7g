@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ブルーマーブル",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-03-20T15:02:33.672705Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブルーマーブル",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/01_ブルーマーブル_DUSTCELL.txt"
+    }
+  ]
+}
